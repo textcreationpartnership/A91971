@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Room for miracles;, or, Miracles from Room a cart-load for a penny. : Pleasantly yet truely exposing the wonderful fopperies imposed by the popish church, to be believed by her Catholick children. : To which is added a lump of holy reliques, worth no body knows what, as a cast into the bargain.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91971</idno><idno type="EEBO-CITATION">43077584</idno>
+  <idno type="VID">151675</idno>
+  <idno type="EEBO-PROQUEST">2240875050</idno>
+  
+            <idno type="STC">Wing R1925</idno>
+            <idno type="STC">ESTC R233394</idno>
+            <idno type="OCLC">43077584</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91971)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151675)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2270:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Room for miracles;, or, Miracles from Room a cart-load for a penny. : Pleasantly yet truely exposing the wonderful fopperies imposed by the popish church, to be believed by her Catholick children. : To which is added a lump of holy reliques, worth no body knows what, as a cast into the bargain.</title>
+               </titleStmt>
+               <extent>[2], 3-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Stout D.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anti-Catholicism --  England --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151675:1"/>
+            <p>ROOM FOR MIRACLES; OR MIRACLES FROM ROOM A Cart-Load for a Penny.</p>
+            <p>Pleasantly yet truely Exposing the <hi>Wonder<g ref="char:EOLhyphen"/>ful Fopperies</hi> Imposed by the <hi>Popish Church,</hi> to be Be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieved by Her <hi>Catholick Children.</hi>
+            </p>
+            <p>To which is added a Lump of <hi>Holy Re<g ref="char:EOLhyphen"/>liques,</hi> worth no Body knows <hi>What,</hi> as a <hi>Cast</hi> into the <hi>Bargain.</hi>
+            </p>
+            <q>
+               <p>VVhose coming is after the VVorks of <hi>Satan,</hi> with Signs and Lying VVonders,</p>
+               <bibl>2 Thes. 2.9.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Stout D.</hi> 1673.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151675:2"/>
+            <head>To the Reader.</head>
+            <p>FInding our late Dialogue between his <hi>Holiness,</hi> and his <hi>Cloven-foot<g ref="char:EOLhyphen"/>ed Tutor,</hi> Bought up as fast as <hi>Gazzets</hi> after a Sea Fight, En<g ref="char:EOLhyphen"/>courages us to play the Fool once more, and present thee with an <hi>Oglio</hi> of their M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>racles, for a <hi>Christmass</hi> Dish: Drest they were all, we assure thee, by Cooks of the <hi>Popes</hi> one Kitchin, and past for no small Delicacies in former Times, however <hi>Sawc'd</hi> here a little Facetiously to Taste more briskly on thy Palate. Let our <hi>Graver Authors</hi> Baffle <hi>Ro<g ref="char:EOLhyphen"/>mish</hi> Arguments and Pretences to <hi>Reason,</hi> our Design is only to Manifest the Rediculousness of that <hi>Religion,</hi> that so <hi>weaker Heads</hi> (apt to be taken with its Pomp and Gaytie) may henceforth behold such <hi>Pagentries</hi> rather with <hi>Contempt</hi> than <hi>Wonder:</hi> VVhen this is done, the <hi>Jesuites</hi> may go whistle for <hi>Proselites,</hi> unless (according to their practice) amongst the <hi>Convicts</hi> of <hi>Newgate.</hi> If any think we speak too <hi>Jocasly</hi> of these won<g ref="char:EOLhyphen"/>derful Faculties, we doubt not but our <hi>Catholick Confessors</hi> in their Budgets of <hi>Pardons,</hi> have <hi>One</hi> for Drollery, especially, since <hi>themselves</hi> have been so <hi>Blasphemously</hi> bold as to Entitle that <hi>Buffoon</hi> of their party, Fryer <hi>Juniper, Jaculator Christi,</hi> the <hi>Jester</hi> (I tremble to repeat it) of our Blessed <hi>Saviour.</hi> To Coyn these pityful <hi>Miracles,</hi> was the Imploy of <hi>Lasie Monks,</hi> in Ages of a <hi>pitchy Ignorance,</hi> thereby to <hi>Decoy</hi> silly Souls to an awful <hi>Reguard</hi> of their Cheating <hi>Idolatries.</hi> If thou shalt welcome <hi>This</hi> with thy former Indulgence we may perhaps <hi>Weekly</hi> trouble thee with some fresh Piece of <hi>Popish Fopperies,</hi> wherein thy hazard shall be but a <hi>Penny,</hi> which yet may possibly Divert thee for an Hour, no less In<g ref="char:EOLhyphen"/>nocently than a Game at <hi>Whist,</hi> or <hi>Cribbidg;</hi> who knows but such <hi>Ob<g ref="char:EOLhyphen"/>lique Glances</hi> may warm and Enlighten, as kindly as perpendicular <hi>Rays,</hi> and small <hi>Twig'd Rods</hi> give smarter <hi>Lashes,</hi> than some more <hi>Labour'd</hi> Consultations of <hi>Catholick Nonsense.</hi>
+            </p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract_on_religious_relics_and_miracles">
+            <pb n="3" facs="tcp:151675:2"/>
+            <head>ROOM FOR Miracles and Reliques, &amp;c.</head>
+            <p>THough Reason tell us, that only New Revelations want New Miracles to Evidence them Divine. And holy Scripture Teaches, That the Doctrine of the Gospel stands not in need of any further Miracles, since it hath long since been so sufficiently Confirmed: That if an Angel from Heaven should Teach otherwise, and offer Miracles to Vouch his Doctrine, he were worthy to be Accursed; yet the Church of <hi>Rome</hi> to prop up her Traditions, pretends these Miraculous Operations to be far more frequent now, than in the Primitive Times: Well may the Hereticks (saith she) pre<g ref="char:EOLhyphen"/>tend Miracles Ceased, being conscious of their own dull Inefficacy and confessed Disability to perform them, whilst the Catholick Church has in all Ages given visible Marks of her Infallible Authority, and Unlimi<g ref="char:EOLhyphen"/>ted Jurisdiction, by multitudes of Incredible, as well as unpara<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lel'd Miracles.</p>
+            <p>Of these wonderful Operations, that certainly deserves to Lead the Van (though ordinarily and constantly wrought) which every pitiful Hedg Priest by virtue of his Office, dares chal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enge to Exercise, even to <hi>Create</hi> his <hi>Maker,</hi> and fetch down the Body of the Glorified Jesus from Heaven to the Altar, as suddenly as the Sun can diffuse his Be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ms of Light: And though he Consecrate a Thousand Wafers at a time, and a Thousand such Consecrations be made in several places at the same time, yet the whole Christ is there Bodily in every place, in eve<g ref="char:EOLhyphen"/>ry of the Wafers, at the same instant, and yet nothing to be seen, felt,
+<pb n="4" facs="tcp:151675:3"/> nor tasted, but plain common Wafers still. For not believing this heap of Absurdities, how many Thousands have suffered cruel Mar<g ref="char:EOLhyphen"/>tyrdom?</p>
+            <p>In the next place deservedly Marches St. <hi>Francis</hi> (Christs Standard-bearer they call him, and Jesus Typical) Heaven and Earth are fill'd with Astonishment at his Wonders: What should we Talk of his puny Miracles, as instructing of a Sheep to go to Church with him, to kneel devoutly there, and bear a part when he Sung the sacred Anthems: Of his swallowing a Spider at Mass, which crept out again whole at his Thigh: Of Water fetcht in an instant out of a Rock, for an Honest man that had lent him an Ass (for you know one good Turn requires another;) or of a Lock of his Hairlaid in the Crack of a Wall, which made up the Breach without Morter. It would be endless to stand Re<g ref="char:EOLhyphen"/>tailing his Stock of Miracles, since the History of his wonderful Con<g ref="char:EOLhyphen"/>formitys to Christ, lately published with great Authority, doubts not to tell you in gross, that whatever Christ did, <hi>Francis</hi> has done the same: And that he has Transcended Christ in his Miracles. Our Sa<g ref="char:EOLhyphen"/>viour turned some few Vessels of water into Wine, but <hi>Francis</hi> turned a whole Fountain so. (I know an hundred Good Fellows wish it had been <hi>Lambs Conduit,</hi> but it seems he carried it with him into th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> World, for there is no such thing to be found in this.) Our Sav<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our Raised some few from the Dead, but St. <hi>Francis</hi> raised a Thousand more out of Purgatory: Attended with all which Train, his Soul was visibly seen march to Heaven in the shape of a <hi>Fl<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>er-Mo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k,</hi> but by the way was Triumphantly met by Christ, and his blessed Mother, <hi>&amp;c.</hi> and placed amongst the highest Order of <hi>Serap<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> in the vacant S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at formerly belonging to <hi>Lucifer.</hi>
+            </p>
+            <p>What say you to St. <hi>Fingare,</hi> who Sailing from <hi>Ireland</hi> on a broad Leaf (supposed to be a Cabbidge Leaf) into <hi>Cornwell;</hi> being Mar<g ref="char:EOLhyphen"/>tyr'd by the Tyrant, carrried her head in her arms (just as the great <hi>French</hi> St. <hi>Denis</hi> did) up to a Hill not far off, intending to bury it there; but being disturbed with the Scolding of some <hi>B<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>insgate</hi> Gossips, trudg'd with it down again into the Valley, and washing it in a spick and span new VVell that sprung up there just then on purpose; quietly buried both it and her self.</p>
+            <p>Can the Hereticks shew such a merciful Saint as the Abbot of <hi>Willar,</hi> who to save a poor womans Longing, kill'd his Ox, and gave the poor Soul almost a quarter of it, which yet was found next morning a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive and whole, Grazing in his Pasture. Or such a patient Saint as Mistresse
+<pb n="5" facs="tcp:151675:3"/>
+               <hi>Clare,</hi> who stood stone still from <hi>Holy Thursday</hi> in the afternoon, till the Saturday night, thinking of just nothing at all; or rather, As ano<g ref="char:EOLhyphen"/>ther Sister Saint in <hi>Ireland;</hi> who putting her hand by chance out of a Window, a Thrush came and laid her Eggs in her Hand, where the good woman stood without moving hand or foot till those Eggs were Hatch'd, and in all likelihood, stir'd not till the pretty Birds were Fledg'd.</p>
+            <p>Saint <hi>Brendan,</hi> for seven long years together, celebrated his <hi>Easter</hi> upon a <hi>VVhales</hi> back, which he at first mistook for an Island; But find<g ref="char:EOLhyphen"/>ing his Error, with a prayer or two he fixed the Sea monster from start<g ref="char:EOLhyphen"/>ing, and at last VVhipt and Spur'd him as far as the Earthly Paradize; from whence (as Luck would have it) they both came safe home. But whether afterwards the VVhale lay Lieger all the seven years, or came courteously every <hi>Easter</hi> to find out St. <hi>Brendan,</hi> and offer the Service of his back to so holy a purpose (because the Earth could not afford Room enough for such a precious business) we cannot certainly inform you.</p>
+            <p>VVonderful is the Legend of Fryer <hi>Tony</hi> of <hi>Padua,</hi> who finding his Labour lost in perswading Hereticks, went to the Sea-side, and call'd the Fishes together, who suddenly in whole Shoals assembled them<g ref="char:EOLhyphen"/>selves; and lifting up their Heads above VVater, Listned most atten<g ref="char:EOLhyphen"/>tively to his powerful Preaching, and no doubt turned good <hi>Catholiques,</hi> As appeared by their silence: VVhich success stirring no sma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Envy in the peevish Hereticks; They inviting the Holy man to Supper, Set before him a great ugly Toad, Urging him with that precept in the Gospel, <hi>(VVhatsoever shall be set before you Eat.)</hi> But what does he, but makes a Cross over it with his finger, and turns it immediately into a brave fat Capon, piping hot from off the Spit.—And now Reader, if thou hast a stomach to such Miracles as these, fall to and welcome.</p>
+            <p>
+               <hi>Augustine</hi> (I mean the <hi>Monk</hi> not the Venerable <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>shop</hi> of <hi>Hippo</hi>) by Reading one <hi>Mass,</hi> raised up two Souls out of Purgatory; one a Laymans, who dyed Excommunicated for not paying his Tyths 150. years before; The other that of the Priest who excommunicated him, but at the <hi>Monks</hi> Entreaty, the priest who excommunicated him, but at the <hi>Monks</hi> entreaty, the priest absolved the Lay-man, and away they Marcht to Heaven good Friends.</p>
+            <p>And now we talk of Excommunication, let me tell you not a few Mi<g ref="char:EOLhyphen"/>racles have been done by that trick. The Abbey of <hi>Fusniack,</hi> was hor<g ref="char:EOLhyphen"/>ribly infested with Flies, St. <hi>Bernard</hi> comes and solemnly Excommuni<g ref="char:EOLhyphen"/>cates
+<pb n="6" facs="tcp:151675:4"/> the saucy Inserts, whereupon next morning these noysome Guests are found all dead on the floor. A white leaf do (but let a Priest repeat the words of Excommunication over, it) shall t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rn as black as a Coal. And when <hi>Robert Brooks</hi> was Excommunicated by St. <hi>Thomas Becket,</hi> (and thereby become <hi>Jumentum Diabelt</hi>) the very Dogs refused to take the bones from his hands, and as readily snatcht them away being tendred by others.</p>
+            <p>A <hi>Synoa</hi> being assembled at <hi>Wilton</hi> in <hi>England</hi> heretofore, to debate the lawfulness of the Clergy's Marrying. The very <hi>Crucifix</hi> (if it were not some knavish Priest behind it) cryed out, <hi>Ye shall never yield that the Clergy shall Marry;</hi> And so the bus<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ness was determined.</p>
+            <p>Can any of the silly Protestants boast such a Favourite of Heaven as <hi>Fryer Benedict;</hi> who having it seems a particular kindness for the Pro<g ref="char:EOLhyphen"/>phet <hi>Daniel,</hi> had a Moneths mind to visit his Tomb in <hi>Babylon,</hi> but be<g ref="char:EOLhyphen"/>ing somewhat disheartned with such a tedious <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourney, and fear of a Dragon, that he was told had the Custody of it: One day as it hap<g ref="char:EOLhyphen"/>pily fell out, comes me a huge terrible Dragon (bigger than that from which St. <hi>George</hi> rescued his fair <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>brina</hi>) and wrapping him up in the Curls of his long sweeping Tayl, flies away with him to rights to <hi>Ba<g ref="char:EOLhyphen"/>bylon</hi> (was not the poor <hi>Saints</hi> heart at his mouth think you all this while) And set him down there as gently as if it had been his Mistress, close by the said Tomb; where he viewing the Sacred Corps, made so bold out of his deep Devotion, as to cut of a finger and steal it away for a precious Relique; which done, the friendly Dragon is ready to take him up a pick-pack, and return him sound as a fish to his Cell.</p>
+            <p>St. <hi>Christina</hi> dying in her Childhood, was most kindly welcom'd into Heaven; but withal, was offer'd the civility to take her choice, whether she would stay there still in Happiness, or return to Earth again, for her greater Merits, in delivering <hi>Parboil'd S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uls</hi> out of <hi>Purgatory Torments.</hi> She like a good natured <hi>Girle</hi> chuses the latter, and down soop she comes again into this Lower World; but not enduring the <hi>stench</hi> of mens sins, still keeps her residence at some distance aloft, perching on the Tops of the Tallest Trees and highest Pinac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es; where she satisfies her Hunger with the Milk of her own Breasts, no matter though she were a Virgin. <hi>Dionysius</hi> the <hi>Carthusians</hi> had seen her at it a Sucking of her self a hundred times.</p>
+            <p>There is indeed a World of like Miracles, whereby the <hi>Romish Re<g ref="char:EOLhyphen"/>ligi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> is Honour'd and Confirm'd. St. <hi>Bridget</hi> having given (out of Charity you must know) a good piece of Bacon to a fawning Cur, yet found it again after he had eaten it, restored in her Kettle and eat it her
+<pb n="7" facs="tcp:151675:4"/> self. Another time signing a new born infant with a Cross, she caused the Child to disown its supposed Father, and cry out a loud. <hi>The Bishop of</hi> Broen <hi>is not my Fa<g ref="char:EOLhyphen"/>ther, but yonder poor man that fits at the lower end of the Table:</hi> Truly I think the Child was almost as Miraculous as the Saint, that he could know his own Father so readily; If the sign of the Cross did retain the same <hi>V<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtue</hi> still, perhaps few of our <hi>Women</hi> now adayes would care to have it used at their Children Baptisme.</p>
+            <p>To conclude, who would willingly cross the <hi>Alps,</hi> though always Perriwig'd with Snow, barefoot in a devout Pilgrimage, to see that holy building of our <hi>Ladies Chappel,</hi> That (God knows why or when) travelled Miraculously two thousand miles at one Stage, all through the Air, from <hi>Palestina</hi> to <hi>Loretto,</hi> or to behold a thou<g ref="char:EOLhyphen"/>sand more notable Monuments of both Ancient and Modern Saints, and their Sacred Reliques; As St. <hi>Joseph</hi>'s Breeches (And if you please <hi>Lipsius,</hi> his that he offered to our <hi>Lady</hi> too Boot) St. <hi>Anns</hi> Comb, <hi>Judas</hi> his Lanthorn, <hi>&amp;c.</hi> but especially who would not be greedy to view those Immortal Reliques, The Feather of the Angel <hi>Gabriel;</hi> and the Red Velvet <hi>Buckler,</hi> still reserved in a Castle in <hi>Normandy,</hi> which the Arch-Angel <hi>Michael</hi> made use of when he Combated the <hi>Dragon:</hi> In all which Monuments, there is not so much Miracle in their Preservation, as in their Super<g ref="char:EOLhyphen"/>natural <hi>Multiplication,</hi> That the same Cross which <hi>Simon of Cyrene</hi> bore on his back, should now be able to <hi>Load a Ship.</hi> And whereas <hi>John</hi> the <hi>Baptist,</hi> lost but one Head, there are now two to be seen, one at <hi>Amyens</hi> in <hi>France;</hi> the other at St. <hi>Sil<g ref="char:EOLhyphen"/>vesters</hi> Abbey in <hi>Rome;</hi> And these both whole. Besides, a multitude of Parcels and Fragments of it elsewhere.</p>
+            <p>But of all this we may have a Reason in the Story of the <hi>Nails,</hi> wherewith our Saviour was fastned to the Cross; at first they were but three in all, and <hi>Constantine</hi> caused one of them to be put in his Horse Bridle which he used in the Wars; the <hi>Se<g ref="char:EOLhyphen"/>cond</hi> in his Helmet to stick his Plum of Feathers in; The <hi>Third</hi> he flung into the <hi>A<g ref="char:EOLhyphen"/>driatique</hi> Sea, in a Tempest to Calm the Raging Waves: yet now in <hi>Several Churches,</hi> you shall see a <hi>Do<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en</hi> or <hi>Sixteen</hi> of those Nails, for which <hi>Catholick Doctors</hi> give this Reason, That the Nail cast in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Sea, took upon it the Nature of a Fish and Spawn'd a great many other <hi>little Nails,</hi> which has produced this multitude. And now I hope your Curiosity is satisfied in the Point.</p>
+            <p>Further you are to know that all those Holy Reliques, you have their peculiar Miracles, as the Saints above have their peculiar Imployments. For as the <hi>Heathen Romans,</hi> Erected Temples to the <hi>Green Sickness</hi> and <hi>Ague</hi> for want of Wit: So these <hi>Catholick Romans</hi> for want of <hi>Grace,</hi> have suited their Canonized Patrons to all occur<g ref="char:EOLhyphen"/>rences. Thus on St. <hi>Johns</hi> day, they implore that Saint for a Blessing for their <hi>Wine,</hi> St. <hi>Stephen</hi> looks after their <hi>Pastures.</hi> St. <hi>Mark</hi> their Corn, and for <hi>Sea-Deities</hi> they have made good store to pray to, least some of them should not be at leisure, or otherwise imployed in that vast Element: As St. <hi>Andrew,</hi> St. <hi>Clement,</hi> St. <hi>Nicholas, &amp;c.</hi> So that certainly if the <hi>Saints</hi> in Heaven do know what is now faigned of them on Earth; and could be capable of <hi>Hmuane Affections,</hi> in that blessed Region of <hi>Im<g ref="char:EOLhyphen"/>possibility,</hi> they would Blush for shame at such <hi>Prodigious Fables,</hi> and as <hi>Socrates</hi> when he read <hi>Plato</hi>'s Dialogues, cry'd out, <hi>Quam Multa de me mentitur Adolescens.</hi> So surely would they say, <hi>How many gross and abominable Lyes, do those Idle Cloysterer's raise of us.</hi> But by this <hi>Craft we get</hi> our <hi>Living,</hi> cry the <hi>Popish D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>metriusses.</hi>
+            </p>
+            <p>These Stories were all raised to Cheat the Common people, first of their <hi>VVits,</hi> and then of <hi>Money,</hi> and creat an esteem for the Priests and Monks, as Instrumental in these Miracles, and having all the Sacred <hi>VVonderworking</hi> Reliques in their Custody: Whereas indeed notwith<g ref="char:EOLhyphen"/>standing all their Brags of Miracles, most true is that Blunt <hi>Repartae</hi> of
+<pb n="8" facs="tcp:151675:5"/>
+               <hi>Thomas Aquinas,</hi> to <hi>Innocent</hi> the Fourth (whom he found surrounded with vast Heaps of Gold) Loe! <hi>Thomas,</hi> saith the Pope, The Church cannot now say as of Old, <hi>Silver and Gold have I none:</hi> No truly, re<g ref="char:EOLhyphen"/>plied the <hi>surly Doctor.</hi> Neither can she say to the Lame man, <hi>Arise and walk.</hi> Considering the great Dishonour of God and sincere Religion, with the danger poor deluded Souls are drawn into by such Impostures of the Romish Clergy, we hope we may without offence, conclude this Sheet with a <hi>Story</hi> borrowed from Father <hi>Bromiard</hi> (a <hi>Catholick,</hi> and therefore we hope an undeniable Author) which if it should be true, not a few poor Ignorant Lay-papists, that use to Reverence their cheat-<hi>Priests</hi> as Demy-Deitiyes, will certainly think it a greater Miracle than any we have yet related. And thus it is: A certain Priest returning Home one Night very late from an <hi>Harlot,</hi> which he kept Abroad (to do, which the <hi>Cannons</hi> vote less Criminal by far, then to have an honest Wife) hearing a most lamentable Noise of a <hi>Ghost</hi> not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom him; after he had <hi>Crost</hi> himself once or twice, askt <hi>what, or who he wa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</hi> The Ghosts answers hIm by asking, <hi>VVho art thou that woul<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st know?</hi> I am a Priest quoth the man, fencing still with the Sign of the Cross: A <hi>Priest,</hi> quoth the Ghost, A <hi>Priest,</hi> A <hi>Priest?</hi> which made the Priest en<g ref="char:EOLhyphen"/>quire the reason why he <hi>redoubled</hi> that word with such vehemence. To which the <hi>Ghost</hi> replied, That there came daily such <hi>Swarms</hi> of Popish <hi>Priests</hi> to Hell, that he verily thought there had been <hi>None</hi> left alive upon <hi>Earth.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>LEst any should Dream we Coyn any Stories here on purpose to make Popery <hi>Rediculous,</hi> we assure them we have taken all from <hi>Ori<g ref="char:EOLhyphen"/>ginals,</hi> where they are told with no little <hi>Seriousness</hi> and <hi>Gravity,</hi> as in the <hi>Golden Legend, John Capgrave, Speculum Exemplorum,</hi> the Book of <hi>Conformities,</hi> and such other worthy Catholick Monuments.</p>
+            <p>And lest any should fancy that the old <hi>Beldam</hi> of <hi>Rome</hi> is grown Barren, and accuse us for telling more but <hi>stale</hi> Miracles, <hi>Fortune</hi> has just now supplied us with a <hi>fresh In<g ref="char:EOLhyphen"/>stance:</hi> For the very last <hi>Harleem Currant,</hi> comes News from <hi>Rome</hi> of the 9th. of <hi>Dec.</hi> That two <hi>Maids</hi> are there found with Child. And who can doubt that to be a Miracle? Especially when they had solemnly vow'd Virginity, and were Cloistered up in a <hi>Nunnery:</hi> However the <hi>Pope</hi> considering humane frailty, and remembring it was only a <hi>Venial</hi> Sin, thought fit to Impose no other <hi>Penance</hi> on them then a gentle <hi>Flogging</hi> or <hi>Whipping</hi> punish<g ref="char:EOLhyphen"/>ment. Yet still we fear this will seem neither Miracle, nor new to them that have Read in our English Chronicles, how many Hundred Childrens Sculls and Bones were found Buried in <hi>Nunneries</hi> at their Dissolution in King <hi>Henry</hi> the 8ths. time.</p>
+            <pb facs="tcp:151675:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
